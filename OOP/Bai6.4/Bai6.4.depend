@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540715153 source:e:\programming\code cpp\oop\bai6.4\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

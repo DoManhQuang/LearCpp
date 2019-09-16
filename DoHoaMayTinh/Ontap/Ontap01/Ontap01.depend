@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560156539 source:g:\programming\code cpp\dohoamaytinh\ontap\ontap01\main.cpp
+	<iostream>
+	<graphics.h>
+	<bits/stdc++.h>
+

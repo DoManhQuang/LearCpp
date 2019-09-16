@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545107049 source:e:\programming\code cpp\oop\bai6_vertor\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

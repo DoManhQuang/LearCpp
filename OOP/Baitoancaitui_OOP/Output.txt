@@ -1,0 +1,25 @@
+Coding by Manh Quang
+
+Bang Du Lieu :
+
+	Ten DV            So Luong         Trong Luong           Gia Tien
+	Thep                 2                 10                   200
+	Vang                 1                 10                  2000
+	 Bac                 2                 10                  1000
+	Dong                 5                  5                   100
+
+Bang Du Lieu Sau Khi Sap Xep :
+
+	Ten DV            So Luong         Trong Luong           Gia Tien
+	Vang                 1                 10                  2000
+	 Bac                 2                 10                  1000
+	Thep                 2                 10                   200
+	Dong                 5                  5                   100
+
+Bang Do Vat Duoc Chon Vao Tui :
+
+	Ten DV            So Luong         Trong Luong           Gia Tien
+	Vang                 1                 10                  2000
+	 Bac                 1                 10                  1000
+
+	Tong Gia Tri Tien Trong Tui La 3000

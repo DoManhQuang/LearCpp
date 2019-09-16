@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554024828 source:g:\programming\code cpp\samsung\sumarrays\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

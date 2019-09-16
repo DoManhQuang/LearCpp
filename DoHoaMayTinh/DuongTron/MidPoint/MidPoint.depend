@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565076541 source:g:\programming\code cpp\dohoamaytinh\duongtron\midpoint\main.cpp
+	<iostream>
+	<graphics.h>
+	<bits/stdc++.h>
+

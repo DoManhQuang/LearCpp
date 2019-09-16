@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554652346 source:g:\programming\code cpp\samsung\homework01\process\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+
